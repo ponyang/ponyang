@@ -1,7 +1,7 @@
 
 
-고혜영
-koponyang@gmail.com
+## 고혜영koponyang@gmail.com
+-----
 
 티몬 2013-05-13 ~
 위메프 2012-12-31 ~ 2013-02-22
