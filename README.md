@@ -1,4 +1,11 @@
-개발이 재밌긴한데 더 재밌는걸 하고싶다아
+
+
+고혜영
+koponyang@gmail.com
+
+티몬 2013-05-13 ~
+위메프 2012-12-31 ~ 2013-02-22
+네오위즈게임즈 2010-01-04 ~ 2012-12-28
 
 <!--
 **ponyang/ponyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
