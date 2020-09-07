@@ -1,11 +1,11 @@
 
 
-## 고혜영koponyang@gmail.com
+## 고혜영 koponyang@gmail.com
 -----
 
-티몬 2013-05-13 ~
-위메프 2012-12-31 ~ 2013-02-22
-네오위즈게임즈 2010-01-04 ~ 2012-12-28
+1. 티몬 2013-05-13 ~
+1. 위메프 2012-12-31 ~ 2013-02-22
+1. 네오위즈게임즈 2010-01-04 ~ 2012-12-28
 
 <!--
 **ponyang/ponyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
